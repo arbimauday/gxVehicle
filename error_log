@@ -1,0 +1,11 @@
+[23-Feb-2018 17:29:18 Asia/Dili] PHP Fatal error:  Call to a member function get() on null in /home/arbaxtreme/public_html/App-Kendaraan/application/models/Mform.php on line 51
+[23-Feb-2018 17:29:18 Asia/Dili] PHP Fatal error:  Call to a member function select() on null in /home/arbaxtreme/public_html/App-Kendaraan/application/models/Mdaftar_kendaraan.php on line 122
+[23-Feb-2018 17:29:18 Asia/Dili] PHP Fatal error:  Call to a member function get() on null in /home/arbaxtreme/public_html/App-Kendaraan/application/models/Mform.php on line 51
+[23-Feb-2018 17:29:18 Asia/Dili] PHP Fatal error:  Call to a member function select() on null in /home/arbaxtreme/public_html/App-Kendaraan/application/models/Mdaftar_kendaraan.php on line 19
+[23-Feb-2018 17:29:18 Asia/Dili] PHP Fatal error:  Call to a member function select() on null in /home/arbaxtreme/public_html/App-Kendaraan/application/models/Mdaftar_kendaraan.php on line 32
+[23-Feb-2018 17:29:21 Asia/Dili] PHP Fatal error:  Call to a member function get() on null in /home/arbaxtreme/public_html/App-Kendaraan/application/models/Mform.php on line 51
+[23-Feb-2018 17:29:21 Asia/Dili] PHP Fatal error:  Call to a member function get_where() on null in /home/arbaxtreme/public_html/App-Kendaraan/application/models/Mform.php on line 18
+[23-Feb-2018 17:31:37 Asia/Dili] PHP Fatal error:  Call to a member function helper() on null in /home/arbaxtreme/public_html/App-Kendaraan/application/controllers/Pengguna/Home.php on line 9
+[23-Feb-2018 17:31:59 Asia/Dili] PHP Fatal error:  Call to a member function view() on null in /home/arbaxtreme/public_html/App-Kendaraan/application/controllers/Pengguna/Home.php on line 23
+[23-Feb-2018 17:32:00 Asia/Dili] PHP Fatal error:  Call to a member function view() on null in /home/arbaxtreme/public_html/App-Kendaraan/application/controllers/Pengguna/Home.php on line 23
+[23-Feb-2018 17:32:00 Asia/Dili] PHP Fatal error:  Call to a member function view() on null in /home/arbaxtreme/public_html/App-Kendaraan/application/controllers/Pengguna/Home.php on line 23
